@@ -7,7 +7,7 @@ To design a half adder and full adder circuit and verify its truth table in Quar
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
+## Theory:
 Adders are digital circuits that carry out addition of numbers.
 
 ### Half Adder
@@ -29,9 +29,9 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 
 ## Procedure
-Connect the supply (+5V) to the circuit
-Switch ON the main switch
-If the output is 1, then the led glows.
+1. Connect the supply (+5V) to the circuit
+2. Switch ON the main switch
+3. If the output is 1, then the led glows.
 ## Program:
 #### HALF ADDER
 ![CODE_HALF](https://github.com/MOHAMEDAHSAN/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139331378/d3df7156-3990-4639-85a1-2f2e333626e2)
