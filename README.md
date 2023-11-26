@@ -55,5 +55,10 @@ If the output is 1, then the led glows.
 ![TIMINGFULL](https://github.com/MOHAMEDAHSAN/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139331378/be224c8b-3523-4a01-9b4d-e6c3c58e63a8)
 
 ### TRUTH TABLE 
+#### HALF ADDER
+![TTHALF](https://github.com/MOHAMEDAHSAN/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139331378/f3938eb8-a255-4efb-9a90-751415ae8f28)
+
+#### FULL ADDER
+![TTFULL](https://github.com/MOHAMEDAHSAN/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139331378/8ea7fbb8-eb0f-491e-9890-6196f363f4ec)
 
 ## Result:
