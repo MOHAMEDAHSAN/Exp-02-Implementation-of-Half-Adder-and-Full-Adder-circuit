@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ## AIM:
@@ -62,3 +62,4 @@ If the output is 1, then the led glows.
 ![TTFULL](https://github.com/MOHAMEDAHSAN/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139331378/8ea7fbb8-eb0f-491e-9890-6196f363f4ec)
 
 ## Result:
+Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
